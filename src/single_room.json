@@ -1,0 +1,8 @@
+[
+  { "roomid": 101, "bedtype": "Queen",  "maxguest": 1 },
+  { "roomid": 102, "bedtype": "Twin",   "maxguest": 1 },
+  { "roomid": 106, "bedtype": "Single", "maxguest": 1 },
+  { "roomid": 107, "bedtype": "Queen",  "maxguest": 1 },
+  { "roomid": 113, "bedtype": "Single", "maxguest": 1 },
+  { "roomid": 114, "bedtype": "Twin",   "maxguest": 1 }
+]

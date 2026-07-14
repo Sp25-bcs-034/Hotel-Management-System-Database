@@ -1,0 +1,16 @@
+[
+  { "logid": 1, "roomid": 101, "status": "Available",   "changedat": "2026-01-01" },
+  { "logid": 2, "roomid": 101, "status": "Occupied",    "changedat": "2026-02-10" },
+  { "logid": 3, "roomid": 101, "status": "Available",   "changedat": "2026-03-01" },
+  { "logid": 1, "roomid": 102, "status": "Available",   "changedat": "2026-01-05" },
+  { "logid": 2, "roomid": 102, "status": "Occupied",    "changedat": "2026-03-01" },
+  { "logid": 1, "roomid": 103, "status": "Available",   "changedat": "2026-01-10" },
+  { "logid": 1, "roomid": 104, "status": "Available",   "changedat": "2026-01-10" },
+  { "logid": 2, "roomid": 104, "status": "Maintenance", "changedat": "2026-04-15" },
+  { "logid": 1, "roomid": 105, "status": "Available",   "changedat": "2026-01-15" },
+  { "logid": 1, "roomid": 107, "status": "Available",   "changedat": "2026-02-01" },
+  { "logid": 2, "roomid": 107, "status": "Occupied",    "changedat": "2026-03-10" },
+  { "logid": 1, "roomid": 110, "status": "Available",   "changedat": "2026-01-20" },
+  { "logid": 1, "roomid": 114, "status": "Available",   "changedat": "2026-02-05" },
+  { "logid": 2, "roomid": 114, "status": "Maintenance", "changedat": "2026-04-20" }
+]

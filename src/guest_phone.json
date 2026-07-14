@@ -1,0 +1,10 @@
+[
+  { "guestid": 1, "guest_phone": "+92-300-1234567" },
+  { "guestid": 1, "guest_phone": "+92-321-7654321" },
+  { "guestid": 2, "guest_phone": "+92-333-9876543" },
+  { "guestid": 3, "guest_phone": "+92-311-1112233" },
+  { "guestid": 4, "guest_phone": "+92-345-5556677" },
+  { "guestid": 5, "guest_phone": "+92-301-9998877" },
+  { "guestid": 6, "guest_phone": "+92-322-3334455" },
+  { "guestid": 7, "guest_phone": "+92-315-6667788" }
+]

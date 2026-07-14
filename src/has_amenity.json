@@ -1,0 +1,19 @@
+[
+  { "roomid": 101, "amenityid": 1 },
+  { "roomid": 101, "amenityid": 2 },
+  { "roomid": 101, "amenityid": 6 },
+  { "roomid": 102, "amenityid": 2 },
+  { "roomid": 102, "amenityid": 4 },
+  { "roomid": 103, "amenityid": 1 },
+  { "roomid": 103, "amenityid": 3 },
+  { "roomid": 103, "amenityid": 6 },
+  { "roomid": 104, "amenityid": 5 },
+  { "roomid": 104, "amenityid": 7 },
+  { "roomid": 105, "amenityid": 5 },
+  { "roomid": 105, "amenityid": 7 },
+  { "roomid": 105, "amenityid": 8 },
+  { "roomid": 110, "amenityid": 9 },
+  { "roomid": 110, "amenityid": 10 },
+  { "roomid": 112, "amenityid": 5 },
+  { "roomid": 112, "amenityid": 8 }
+]
